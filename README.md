@@ -1,31 +1,50 @@
-Profit and Loss Statement Dashboard Project
+# Financial Performance Dashboard (Tableau)
 
-Overview:
-This project showcases a Profit and Loss Statement Dashboard created using Tableau. The dashboard analyzes financial metrics such as Sales, Net Profit, Gross Profit, Net Profit Margin, and Gross Profit Margin to provide insights into the financial performance of a business.
+## Project Overview
+This project showcases a **Financial Performance Dashboard** developed using **Tableau** to analyze and monitor key financial metrics across different time periods and clients. The dashboard provides a high-level view of organizational financial health and supports data-driven decision-making.
 
-Table of Contents:
-Introduction
-Data Sources
-Dashboard Preview
-Key Metrics
-How to Use
-Contributing
-License
+---
 
-Introduction:
-The Profit and Loss Statement Dashboard is designed to offer a comprehensive view of a business's financial performance. By visualizing key financial metrics, stakeholders can quickly assess the company's profitability and identify areas for improvement.
+## Objectives
+- Monitor overall financial performance
+- Compare **Actual vs Budgeted** revenue and gross profit
+- Evaluate profitability and operational efficiency
+- Analyze cash flow and financial cycle metrics
 
-Data Sources:
-The dashboard utilizes data from internet using a financial report. The dataset includes various General Ledgers, Cash Flow Statements, Calendar Dates, Chart of accounts etc
+---
 
-Key Metrics:
-The dashboard highlights the following financial metrics:
+## Key Metrics
+- Total Revenue  
+- Gross Profit  
+- EBITDA  
+- Operating Income  
+- Income Before Taxes  
+- Net Income  
 
-Sales: Total revenue generated from sales.
-Net Profit: Total profit after deducting all expenses.
-Gross Profit: Profit after subtracting the cost of goods sold.
-Net Profit Margin: The percentage of net profit relative to revenue.
-Gross Profit Margin: The percentage of gross profit relative to revenue.
+---
 
-Contributing:
-Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
+## Dashboard Analysis
+- **Revenue vs Gross Profit (Actual vs Budget)**  
+  Monthly trend analysis to identify performance gaps.
+
+- **DSO vs DPO Analysis**  
+  Measures receivables and payables efficiency along with gap analysis.
+
+- **Cash Flow Analysis**  
+  Tracks cash flow movement over time for better financial planning.
+
+- **Interactive Filters**  
+  Filters for **Year**, **Quarter**, and **Client** enable dynamic insights.
+
+---
+
+## Screenshot
+![financial_performance_dashboard](https://github.com/user-attachments/assets/83079f2e-d900-4020-b650-f58a3b985919)
+
+
+## How to Use
+1. Download the Tableau workbook from this repository  
+2. Open the file using **Tableau Desktop** or **Tableau Public**  
+3. Apply filters to explore insights by year, quarter, or client  
+
+---
