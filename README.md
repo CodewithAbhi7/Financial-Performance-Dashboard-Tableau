@@ -39,7 +39,8 @@ This project showcases a **Financial Performance Dashboard** developed using **T
 ---
 
 ## Screenshot
-![financial_performance_dashboard](https://github.com/user-attachments/assets/83079f2e-d900-4020-b650-f58a3b985919)
+<img width="1917" height="1094" alt="image" src="https://github.com/user-attachments/assets/49fe84f8-6286-40bd-8bc6-187aae0bca80" />
+
 
 
 ## How to Use
